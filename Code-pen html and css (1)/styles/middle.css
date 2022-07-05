@@ -1,0 +1,75 @@
+.middle {
+    background-color: #363a42;
+    padding-top: 50px;
+    display: flex;
+    justify-content: space;
+}
+
+.middle-header {
+    margin-right: 800px;
+    margin-left: 400px;
+    font-size: 35px;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    margin-left: -529px;
+}
+
+.buttons > .sign-up-btn {
+    background-color: #00ff7f;
+    border-radius: .1rem;
+    padding: 14px;
+    display: flex; 
+    justify-content: left;
+    margin-right: 21px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+}
+.buttons > .lrnmore {
+    background-color: #000000;
+    border-radius: .1rem;
+    padding: 14px;
+    display: flex; 
+    justify-content: left;
+    margin-right: 86px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    color: white;
+}
+
+.middle-header1 img {
+    size: 10px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    box-shadow: -66px -80px 100px rgba(0, 0, 0, 0.8);
+}
+
+.kmiddlehead {
+    font-size: 24px;
+    display: flex;
+}
+
+.k1 {
+    color: white;
+    font-family: 'Lato', sans-serif;
+}
+
+.k2 {
+    color: aqua;
+    font-family: 'Lato', sans-serif;
+    margin-left: 5px;
+}
+
+.k3 {
+    color: white;
+    font-family: 'Lato', sans-serif;
+}
+
+
+
+
+
+

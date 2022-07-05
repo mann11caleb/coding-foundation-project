@@ -1,0 +1,41 @@
+.subheader-nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+.navigation-wrapper {
+    display: grid;
+    grid-template-columns: 1fr;
+}
+
+.navigation-wrapper > .link-header-wrapper {
+    color: gold;
+    font-family: 'lato', sans-serif;
+}
+
+.links-wrapper > .nav-link {
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 15px;
+}
+
+
+.links-wrapper {
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 2450px;
+}
+
+.links-wrapper > .options-wrapper {
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    color: #808080;
+}
+
+.links-wrapper > .options-wrapper i {
+    color: #ececec;
+}
+
